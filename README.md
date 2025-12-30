@@ -1,19 +1,15 @@
-## HHi 👋 I'm Harsha Keerthi
+Hi 👋, I'm Harsha Keerthi  
 
-🎓 B.Tech IT | 2nd Year  
-🤖 AI • DSA • Web Development  
-🏆 Hackathon Participant | IIT Hyderabad | AGENTATHON  
+I'm a **B.Tech IT student** passionate about **DSA, Artificial Intelligence, and Web Development**, driven to solve real-world problems using code.
 
-### 🚀 What I'm working on
-- AI-powered Policy Agent
-- Smart Education Assistant (Sahayak)
-- DSA & Competitive Programming
+harsha-0074
 
-### 🛠 Tech Stack
-- Languages: Java, C++, Python
-- Web: HTML, CSS, JavaScript, React
-- Backend: Node.js, Flask
-- AI: NLP, LLMs, Gemini
+🌱 Currently learning **Advanced DSA, Full-Stack (MERN), and AI/ML**, and building innovative projects through hackathons and internships.
+
+👨‍💻 Check out my work: https://github.com/harsha-0074  
+
+📫 Contact me at: harshakeerthi8500@gmail.com
+
 
 
 <!--
